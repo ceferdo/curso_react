@@ -3,7 +3,7 @@ import React from 'react';
 class App extends React.Component {
 
   state = {
-    nome : 'Celso Fernando Paes'
+    nome : 'Benedito Marcos Bruzanosco'
   }
 
   modificarNome = (e) => {
